@@ -7,12 +7,25 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+I am a streamer and I want to create an application where streamers can evaluate the games they play on stream to help them get a better understanding of what their community likes and help the community see what the streamer likes.
+
+To do this the streamer can go to the application after stream and take a short 5 question survey about the game the just played. This can help other streamers by letting them see how certain games did on stream. 
+
 ### Features
-Include Features here
+Take Survey: Users will be able to take a short survey based on a 5 star rating system.
+Search: users will be able to search through the surveys for specific criteria.
+API: Create an API 
+
 ### Technologies
-Include Technologies here
+Java
+SpringBoot
+MySQL
+HTML
+CSS
+Angular
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+How to create an API
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/QKMyPUYT/capstone-project
