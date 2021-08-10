@@ -4,17 +4,16 @@ I want to create an application where streamers can evaluate the content they pr
 To do this the streamer can go to the application after they stream and take a short 5 question survey about the content they just provided. This can help other streamers by letting them see how certain content did on stream. 
 
 ### Features
-Take Survey,
-Search,
-Log In
+Log-In
+
+Take Evaluation
+
+Search Evaluations
 
 ### Technologies
-Java,
-SpringBoot,
-MySQL,
-HTML,
-CSS,
-Angular
+Front-End: HTML, CSS, JavaScript, Angular
+
+Back-End: Java, Bootstrap, MySQL
 
 ### What I'll Have to Learn
 How to connect to a server.
