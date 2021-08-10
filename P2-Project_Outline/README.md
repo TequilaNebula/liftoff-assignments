@@ -6,7 +6,7 @@ To do this the streamer can go to the application after stream and take a short 
 ### Features
 Take Survey,
 Search,
-API,
+API?,
 Log In
 
 ### Technologies
@@ -18,7 +18,7 @@ CSS,
 Angular
 
 ### What I'll Have to Learn
-How to create an API.
+How to create an API?
 How to connect to a server.
 How to add user authentification.
 
