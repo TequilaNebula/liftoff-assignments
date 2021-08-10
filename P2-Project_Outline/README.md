@@ -4,18 +4,18 @@ As a streamer and I want to create an application where streamers can evaluate t
 To do this the streamer can go to the application after stream and take a short 5 question survey about the game they just played. This can help other streamers by letting them see how certain games did on stream. 
 
 ### Features
-Take Survey
-Search
-API
+Take Survey,
+Search,
+API,
 Log In
 
 ### Technologies
-Java
-SpringBoot
-MySQL
-HTML
-CSS
-Angular
+Java,
+SpringBoot,
+MySQL,
+HTML,
+CSS,
+Angular,
 
 ### What I'll Have to Learn
 How to create an API.
