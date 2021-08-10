@@ -15,7 +15,7 @@ SpringBoot,
 MySQL,
 HTML,
 CSS,
-Angular,
+Angular
 
 ### What I'll Have to Learn
 How to create an API.
