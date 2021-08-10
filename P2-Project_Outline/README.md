@@ -20,6 +20,7 @@ Angular,
 ### What I'll Have to Learn
 How to create an API.
 How to connect to a server.
+How to add user authentification.
 
 ### Project Tracker
 https://trello.com/b/QKMyPUYT/capstone-project
